@@ -67,3 +67,11 @@ https://docs.microsoft.com/en-us/windows/win32/winhttp/about-winhttp
 https://docs.vinsight.net/api/examples/vb-script-example/
 
 # Reference
+
+https://stackoverflow.com/questions/62268870/vba-where-are-available-references-stored
+
+https://www.devhut.net/vba-run-powershell-command/
+https://www.reddit.com/r/PowerShell/comments/iue29l/how_to_get_output_of_powershell_script_to_appear/
+
+https://www.raspberrypi.com/news/create-your-own-teletext-service/
+
